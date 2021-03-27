@@ -1,2 +1,2 @@
-module github.com/giglioq/psychic-goggles
+module github.com/giglioq/wowchemy-widget-psychic-goggles
 go 1.15
